@@ -1,4 +1,5 @@
 # Assignment 2
+## Group Members: Jadyn Gonzalez, Michelle Kutsanov, Finn White
 
 This assignment is about a simple round robin algorithm that allocates CPU time to tasks held in cyclic list.
 
